@@ -1,4 +1,4 @@
-# Rotaete Pdf LL THW  Pages 90* or 180* or 270* 
+# Rotate Pdf Pages by  90* or 180* or 270* 
 
 This project demonstrate how to rotate pdf pages by using the PyPDF2 library.
 
