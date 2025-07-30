@@ -1,6 +1,6 @@
-# Rotaete Pdf Pages 90* or 180* or 270* with the given page number  
+# Rotaete Pdf LL THW  Pages 90* or 180* or 270* 
 
-This project demonstrate how to rotate pdf pages with given page number by using the PyPDF2 library.
+This project demonstrate how to rotate pdf pages by using the PyPDF2 library.
 
 ## Features 
  
